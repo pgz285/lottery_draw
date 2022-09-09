@@ -44,14 +44,14 @@ export default {
             isStart: 1,
             score: 10, //消耗积分
             list: [
-                { img: '../assets/img/j1.png', title: '谢谢参与' },
-                { img: '../assets/img/j2.png', title: '美女一个' },
-                { img: '../assets/img/j1.png', title: '宝马一辆' },
-                { img: '../assets/img/j2.png', title: '单车一辆' },
-                { img: '../assets/img/j1.png', title: '鸡蛋一蓝' },
-                { img: '../assets/img/j2.png', title: '500红包' },
-                { img: '../assets/img/j1.png', title: '靓号一个' },
-                { img: '../assets/img/j2.png', title: '鲜花一蓝' }
+                { img: 'https://joe.foshanlepin.com/lottery_draw/src/assets/img/j1.png', title: '谢谢参与' },
+                { img: 'https://joe.foshanlepin.com/lottery_draw/src/assets/img/j2.png', title: '美女一个' },
+                { img: 'https://joe.foshanlepin.com/lottery_draw/src/assets/img/j1.png', title: '宝马一辆' },
+                { img: 'https://joe.foshanlepin.com/lottery_draw/src/assets/img/j2.png', title: '单车一辆' },
+                { img: 'https://joe.foshanlepin.com/lottery_draw/src/assets/img/j1.png', title: '鸡蛋一蓝' },
+                { img: 'https://joe.foshanlepin.com/lottery_draw/src/assets/img/j2.png', title: '500红包' },
+                { img: 'https://joe.foshanlepin.com/lottery_draw/src/assets/img/j1.png', title: '靓号一个' },
+                { img: 'https://joe.foshanlepin.com/lottery_draw/src/assets/img/j2.png', title: '鲜花一蓝' }
             ],   //奖品1-9     
             index: -1,  // 当前转动到哪个位置，起点位置
             count: 8,  // 总共有多少个位置
